@@ -1,9 +1,5 @@
 # 🏥 Disease Prediction API - Backend
 
-
-
-![Python](https://img.shields.io/badge/Pythons://img.shields.io/badge/Scapi-lryq.onrender.com](https://disease-predictor-api-lryq.onrender.com)
-
 *An intelligent machine learning API that predicts diseases based on symptoms using multiple ML algorithms*
 
 [Features](#-features) -  [Quick Start](#-quick-start) -  [API Documentation](#-api-documentation) -  [Deployment](#-deployment)
